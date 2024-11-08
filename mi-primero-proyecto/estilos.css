@@ -1,0 +1,43 @@
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.introduccion{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(212, 144, 209);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(26, 84, 160);
+    font-size: 45px;
+}
+
+
+
+.introduccion img{
+width: 700px;
+height: 600px;
+}
+.fotos img {
+    width: 300px;
+    height: 300px;
+}
+
+.fotos{
+    background-color: rgb(86, 214, 172);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(35, 63, 63);
+    }
+
+    .videos{
+        text-align: center;
+        background-color: rgb(173, 66, 88);
+        color: rgb(16, 16, 54);
+        display: block;
+        margin: auto;
+        padding: 25px;
+    }
